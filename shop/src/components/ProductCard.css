@@ -1,0 +1,11 @@
+article {
+    padding: 1rem;
+    box-shadow: 4px 4px 8px;
+}
+article img {
+    width: 150px; 
+}
+
+.image-cointainer {
+    display: flex;
+}
